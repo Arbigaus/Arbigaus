@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-[![Gerson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arbigaus&theme=radical)](#) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arbigaus&theme=radical&hide=jupyter%20notebook,tex,html,shell,c%23,css,ruby)](#) 
----|--
-
 - 🌱 I’m currently learning advanced swift architect.
 - 🔭 I’m currently working on [PagBank][https://pagseguro.uol.com.br/conta-digital/conta-digital-gratis] with iOS Development. 
+
+![Metrics](https://metrics.lecoq.io/Arbigaus?template=classic&languages=1&gists=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.ignored=PHP%2C%20HTML&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.aliases=javascript%3AJS%2C%20typescript%3ATS&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&gists=false&config.timezone=America%2FSao_Paulo)
 
 <!--
 **Arbigaus/Arbigaus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,4 +18,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+[![Gerson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arbigaus&theme=radical)](#) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arbigaus&theme=radical&hide=jupyter%20notebook,tex,html,shell,c%23,css,ruby)](#) 
+---|--
+
 -->
