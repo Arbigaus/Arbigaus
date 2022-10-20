@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+[![Gerson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arbigaus&theme=radical)](#) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arbigaus&theme=radical&hide=jupyter%20notebook,tex,html,shell,c%23,css,ruby)](#) 
+---|--
+
+- 🌱 I’m currently learning advanced swift architect.
+- 🔭 I’m currently working on [PagBank][https://pagseguro.uol.com.br/conta-digital/conta-digital-gratis] with iOS Development. 
+
 <!--
 **Arbigaus/Arbigaus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
