@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning advanced swift architect.
-- 🔭 I’m currently working on [Banco BS2](https://www.bancobs2.com.br) with iOS Development.
+- 🔭 I’m currently working on [Claro](https://www.claro.com.br) with iOS Development.
 
 [[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arbigaus&theme=radical&hide=jupyter%20notebook,tex,html,shell,c%23,css,ruby) ![Gerson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arbigaus&theme=radical&count_private=true)](#)
 
