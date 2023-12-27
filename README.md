@@ -4,9 +4,9 @@ Mobile Software Engineer (Swift | iOS)
 --------------------------------------  
 I love ☕️ and code!!  
 * 🌍  I'm based in Brazil  
-* ✉️  You can contact me at [gerson87@gmail.com](mailto:gerson87@gmail.com) *  
-* 🚀  I'm currently working on [Mini Service](http://github.com/Arbigaus/MiniService) *  
-* 🧠  I'm learning every day a new thing *  
+* ✉️  You can contact me at [gerson87@gmail.com](mailto:gerson87@gmail.com)  
+* 🚀  I'm currently working on [Mini Service](http://github.com/Arbigaus/MiniService)  
+* 🧠  I'm learning every day a new thing  
 
 <a href="https://www.github.com/Arbigaus" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Arbigaus?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/garbigaus" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/garbigaus?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>  
 ### Skills  
