@@ -5,8 +5,8 @@ Mobile Software Engineer (Swift | iOS)
 I love ☕️ and code!!  
 * 🌍  I'm based in Brazil  
 * ✉️  You can contact me at [gerson87@gmail.com](mailto:gerson87@gmail.com)  
-* 🚀  I'm currently working on [ClaroFlex]([http://github.com/Arbigaus/MiniService](https://flex.claro.com.br/)  
-* 🧠  Learning how to use Neovim  
+* 🚀  I'm currently working on [ClaroFlex](https://flex.claro.com.br/)  
+* 🧠  Learning how to use [Neovim](https://neovim.io)  
 
 <a href="https://www.github.com/Arbigaus" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Arbigaus?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/garbigaus" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/garbigaus?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>  
 ### Skills  
